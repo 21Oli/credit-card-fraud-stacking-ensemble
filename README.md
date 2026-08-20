@@ -42,10 +42,6 @@ To develop and evaluate a manual Stacking Ensemble using 5-fold Stratified Cross
 > **Note:** The dataset is not included in this repository due to its size (143 MB).
 > Download `creditcard.csv` from Kaggle and place it in the `data/` directory before running the notebook.
 
-### Class Distribution
-
-![Class Distribution](images/01_class_distribution.png)
-
 ### Transaction Amount Distribution
 
 ![Transaction Amount Distribution](images/02_transaction_amount_distribution.png)
